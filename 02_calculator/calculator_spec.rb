@@ -1,4 +1,4 @@
-# In this problem we are going to make a calculator. 
+# In this problem we are going to make a calculator.
 
 # Remember to create the file!
 require "calculator.rb"
@@ -54,10 +54,12 @@ end
 
 describe "#multiply" do
 
-  it "multiplies two numbers" do 
+  it "multiplies two numbers" do
+
   end
 
   it "multiplies several numbers" do
+
   end
 
 end
@@ -74,9 +76,9 @@ describe "#factorial" do
   it "computes the factorial of 2" do
   end
 
-  it "computes the factorial of 5" do 
+  it "computes the factorial of 5" do
   end
 
-  it "computes the factorial of 10" do 
+  it "computes the factorial of 10" do
   end
 end
